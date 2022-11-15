@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 Project 01 Fall 2022"
-author: "YOUR NAME HERE"
+author: "Kate Metzger"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,43 +12,43 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+Stephanie Rivera. 
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+I read in the description that she is now part of a start up called MyStrength and I googled it, and it seemed like a very great app dedicated to mental health. 
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+Yes, her background leans towards Data Science very strongly. 
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+Her Bachelors and Masters are both in math but she focused on applied mathematics during undergrad at Colorado State. During her Masters degree, she focused on pure math which made her realize she wanted to go back to applied mathematics. She got her PhD in Computer Engineering focusing on Machine Learning. 
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+She thought if she majored in math, she would have to be a math teacher and she did not want to do that. So she started in Spanish, then accounting, and then she moved to engineering. While she was in engineering, she took calculus, where the professors explained to her all of the wonderful things you can do with mathematics. 
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+During reinforcement learning, she used Mat Lab for her research when perusing her Masters Degree. 
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+During her research in Grad school, she collected data on how a human would collect an image. This was to teach an agent to scan an image the way a human would and pick out the important pieces first. 
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+Building relationship with professors is extremely helpful so you can learn about the various research project they worked on and what next steps you need to take. There is not enough data in the world that can make that "next step" decision for you. They "teach you how to fish", professors/mentors teach rather than just giving the answers, learning how to find resources is very important in this field. 
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+Her family is a very patriotic family, everyone served. She knew she was not going to be a boots on the ground kind of person so she thought to get involved with her mathematics in the government. Her family always said to serve the country, before you asked for something from it. That is a very interesting and respectable motivation to get into government. She really wanted to help and make a difference in the medical field and in the defense sector so she could support the troops in a way that made more sense for her. 
 
-**Q10: Q10: How did this person path differ from the previous interview you watched?**
+**Q10: How did this person path differ from the previous interview you watched?**
 
-ANSWER:
+Trey Causey's path was a bit more linear when it came to his college career. Although he also strayed from the data science path, he still used it in his psychology research. Unlike Stephanie who entirely stepped back from Data Science because she did not want to be a math teacher. However, they both knew they liked math/engineering from a very young age. They also bothed ended up in smaller start ups after working for larger companies, and really enjoying it. 
 
 <hr>
 
